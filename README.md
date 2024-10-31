@@ -60,7 +60,7 @@ OpenCV
 Jupyter Notebook (optional for notebooks)
 
 Installation
-Clone the repository:
+Clone the repository:        
 
 bash
 git clone https://github.com/yourusername/SAMI-CODEAIAI-WORKSHOP.git
